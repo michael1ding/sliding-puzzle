@@ -1,3 +1,6 @@
+# This particular project requires npm install lodash and react-motion
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
